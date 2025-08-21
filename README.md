@@ -47,12 +47,12 @@ Dataset: https://osmhhelp.org/research.html
 ![1. Dashboard Overview](pic_01.png)
 
 
-![2. KPIs & Benefits by Company Size](assets/02_kpis_benefits.png)
+![2. KPIs & Benefits by Company Size](pic_02.png)
 
 
-![3. Treatment & Work Interference](assets/03_treatment_work.png)
+![3. Treatment & Work Interference](pic_03.png)
 
 
-![4. Perceived Consequence](assets/04_perceived_consequence.png)
+![4. Perceived Consequence](pic_04.png)
 
 
