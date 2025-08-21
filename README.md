@@ -44,7 +44,7 @@ Dataset: https://osmhhelp.org/research.html
 
 ## Dashboard
 
-![1. Dashboard Overview](assets/01_overview.png)
+![1. Dashboard Overview](assets/pic_01.png)
 
 
 ![2. KPIs & Benefits by Company Size](assets/02_kpis_benefits.png)
