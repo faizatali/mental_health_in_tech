@@ -44,4 +44,15 @@ Dataset: https://osmhhelp.org/research.html
 
 ## Dashboard
 
-http://127.0.0.1:8057
+![1. Dashboard Overview](assets/01_overview.png)
+
+
+![2. KPIs & Benefits by Company Size](assets/02_kpis_benefits.png)
+
+
+![3. Treatment & Work Interference](assets/03_treatment_work.png)
+
+
+![4. Perceived Consequence](assets/04_perceived_consequence.png)
+
+
