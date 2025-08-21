@@ -18,21 +18,27 @@ Dataset: https://osmhhelp.org/research.html
 
 ## Features
 
-- **Filters**: Country · Gender · Age (18–72) · Work mode
+- **Filters**: country (dropdown menu), gender (radio buttons), age (slider ranging from 18 to 72), work mode (radio buttons)
 - **KPIs**:  
-  - Respondents (after filters)  
-  - Treatment rate (% answering “Yes”)  
-  - *(Optional extras you can enable: Benefits coverage, Work interference (Sometimes+Often), Perceived consequences (Yes))*  
-- **Charts (stacked within each company-size bin; bars sum to 100%)**  
-  1) Treatment — *Yes / No*  
-  2) Perceived mental-health consequence — *Yes / Maybe / No*  
-  3) Benefits — *Yes / No / Don’t know*  
-  4) Work interference — *Never / Rarely / Sometimes / Often*  
+  - Respondents - total number of respondents (after filters are applied)
+  - Treatment - percentage of respondents who are receiving or have received mental health treatment
+- **Charts**: stacked within each company-size bin; bars sum to 100%
+  - Mental Health Benefits by Company Size
+    - Question: Does your employer provide mental health benefits?
+    - Categories: yes, no, don't know
+  - Treatment by Company Size
+    - Question: Have you recieved treatment for a mental health condition?
+    - Categories: yes, no
+  - Work Interference by Company Size
+    - Question: If you have a mental health condition, do you feel that it interferes with your work?
+    - Categories: never, rarely, sometimes, often, not applicable 
+  - Perceived Mental Health Consequence by Company Size
+    - Question: Do you think that discussing a mental health issue with your employer would have negative consequences?
+    - Categories: yes, maybe, no, 
 - **Design**: IBM/Carbon color palette; responsive layout with Dash Bootstrap Components  
 - **Interactivity**: Hover for exact counts/percents; click legend items to isolate or mute categories
 
-
 ## Tech Stack
 
-- Python · Dash · Plotly Express · Dash Bootstrap Components  
-- Pandas · NumPy
+- Python, Dash, Plotly Express, Dash Bootstrap Components  
+
