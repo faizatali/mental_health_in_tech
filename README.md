@@ -1,6 +1,6 @@
 # Exploring Mental Health in the Tech Industry 
 
-An interactive dashboard (Dash + Plotly) for exploring the **OSMI Mental Health in Tech Survey (2014)**. Filter respondents by **Country**, **Gender**, **Age (18–72)**, and **Work mode** (remote or in-person) to instantly update KPIs and plots. The app uses the IBM/Carbon color palette and a clean, responsive layout with Dash Bootstrap Components.
+An interactive dashboard (Dash + Plotly) for exploring the **OSMI Mental Health in Tech Survey (2014)**. Filter respondents by **Country**, **Gender**, **Age (18–72)**, and **Work Mode** (remote or in-person) to instantly update KPIs and plots. The app uses the IBM/Carbon color palette and a clean, responsive layout with Dash Bootstrap Components.
 
 ---
 
